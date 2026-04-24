@@ -78,15 +78,18 @@ This project demonstrates the detection and recovery of link failures in a netwo
 ### Ping Output
 <img width="943" height="468" alt="image" src="https://github.com/user-attachments/assets/04f621ff-a0d5-4678-ba0e-34f7d73da584"/>
 
-### Link Failure
+### Code
 <img width="798" height="679" alt="image" src="https://github.com/user-attachments/assets/e1ed5d39-8daf-4897-91b8-9be00be5d3d9"/>
 
 <img width="733" height="553" alt="image" src="https://github.com/user-attachments/assets/ec2d8067-2ad3-4c60-a96e-1be86808176d"/>
 
+### cleanup
 <img width="940" height="301" alt="image" src="https://github.com/user-attachments/assets/9cd09569-2d63-4394-9321-af89f075dc40"/>
 
+### failure
 <img width="940" height="395" alt="image" src="https://github.com/user-attachments/assets/bfb0bd8a-c1c7-47b0-b496-a332d84d9fd0"/>
 
+### recovery
 <img width="789" height="379" alt="image" src="https://github.com/user-attachments/assets/4b33efb2-b3a3-490f-9452-db2b4744113d"/>
 
 
